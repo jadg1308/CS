@@ -1,0 +1,10 @@
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\bin\Debug\ProyectoCiudad.exe.config
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\bin\Debug\ProyectoCiudad.exe
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\bin\Debug\ProyectoCiudad.pdb
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.csprojAssemblyReference.cache
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.Form1.resources
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.Properties.Resources.resources
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.csproj.GenerateResource.cache
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.csproj.CoreCompileInputs.cache
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.exe
+D:\ProyectosCS\ProyectoCiudad\ProyectoCiudad\obj\Debug\ProyectoCiudad.pdb

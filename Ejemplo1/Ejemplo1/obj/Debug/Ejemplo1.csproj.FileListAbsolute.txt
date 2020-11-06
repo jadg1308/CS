@@ -1,0 +1,10 @@
+D:\ProyectosCS\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+D:\ProyectosCS\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+D:\ProyectosCS\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+D:\ProyectosCS\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.FrmSaludar.resources
